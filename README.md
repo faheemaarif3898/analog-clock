@@ -3,7 +3,8 @@
 A simple analog clock built using *HTML, CSS, and JavaScript*.  
 
 ## Demo
-- Open index.html in your browser to see the clock in action.  
+- Live site: [Analog Clock Demo](https://faheemaarif3898.github.io/analog-clock/)
+- Or open `index.html` locally in your browser.
 
 ## Features
 - Displays a real-time analog clock.  
