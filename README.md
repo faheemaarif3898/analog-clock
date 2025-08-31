@@ -19,6 +19,6 @@ A simple analog clock built using *HTML, CSS, and JavaScript*.
 ## How to Run
 1. Clone this repo:  
    ```bash
-   git clone https://github.com/<your-username>/analog-clock
+   git clone https://github.com/faheemaarif3898/analog-clock
 
 2. Open index.html in your browser.
